@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-0K7BPM5</Machine>
+    <WindowsUser>HP</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>49d33ef1-d9b4-4d00-a46f-8dcaa38b45cf</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ochomoswill</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Ukoo Circle.dll">
+      <PackagePath>Ukoo Circle.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll">
+      <PackagePath>Microsoft.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll">
+      <PackagePath>Microsoft.Phone.Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPToolkitTestFx.4.2012.11.14\lib\wp8\Microsoft.Phone.Toolkit.Testing.dll">
+      <PackagePath>Microsoft.Phone.Toolkit.Testing.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPToolkitTestFx.4.2012.11.14\lib\wp8\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll">
+      <PackagePath>Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\packages\WPtoolkit.4.2013.08.16\lib\wp8\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ic_home_active.png">
+      <PackagePath>Assets\ic_home_active.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ic_home_inactive.png">
+      <PackagePath>Assets\ic_home_inactive.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ic_person_active.png">
+      <PackagePath>Assets\ic_person_active.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ic_search.png">
+      <PackagePath>Assets\ic_search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ic_settings_active.png">
+      <PackagePath>Assets\ic_settings_active.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ic_settings_inactive.png">
+      <PackagePath>Assets\ic_settings_inactive.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ic_ukoo_leaf_home.png">
+      <PackagePath>Assets\ic_ukoo_leaf_home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\img_ukoo_banner.png">
+      <PackagePath>Assets\img_ukoo_banner.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\img_ukoo_leaf_dark.png">
+      <PackagePath>Assets\img_ukoo_leaf_dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\img_ukoo_links_home.png">
+      <PackagePath>Assets\img_ukoo_links_home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\list.png">
+      <PackagePath>Assets\list.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\list_inactive.png">
+      <PackagePath>Assets\list_inactive.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\placeholder.png">
+      <PackagePath>Assets\placeholder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\placeholder_inactive.png">
+      <PackagePath>Assets\placeholder_inactive.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\ic_person_inactive.png">
+      <PackagePath>Assets\ic_person_inactive.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Logo.png">
+      <PackagePath>Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Toolkit.Content\ApplicationBar.Email.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Email.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Toolkit.Content\ApplicationBar.Play.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Toolkit.Content\ApplicationBar.Save.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\README_FIRST.txt">
+      <PackagePath>README_FIRST.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

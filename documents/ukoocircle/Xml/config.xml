@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<the_xml_data>
+<!--NOTE: Request method to be used is 'GET'-->
+<!--The url to send request to is: 'http://cybertexdigitalcommunication.co.ke/ukoo_circle/core/engine.php'-->
+<!--The item expected is 'data'-->
+<!--So request will be: 'http://cybertexdigitalcommunication.co.ke/ukoo_circle/core/engine.php?data=xmlString'-->
+
+<!--
+Page Login +- -> -> - Setup Profile - - Create Account >+
+           |                                            |
+           |              +- - <- - <- - <- - <- - <- -  <+
+           |              |
+           +- -> - -> Main Page - - - - Search Profile - -> - -> Result person details
+                          |
+                          + -> - -> - -> -  Edit my profile - -> My Personal Profile - -> - ->
+                                                |
+                                                + -> - -> - -> > mi nimechoka
+
+-->
+
+<!--XML strings is below-->
+
+<!--SETUP PROFILE-->
+<!--REQUEST TO SERVER-->
+<!--For setting up personal profile-->
+<!--William: Configure/Finish designing xaml UI page for this nb: marital status and gender are dropdowns-->
+<!--Gabriel: Devise a way of sending the xmls to server and validating the received output-->
+<message>
+    <msg>insert_person</msg>
+    <person
+        person_first_name = 'value'
+        person_surname = 'value'
+        person_middle_name = 'value'
+        person_date_of_birth = 'value'
+        person_eye_color = 'value'
+        person_blood_type = 'value'
+        person_height = 'value'
+        person_weight = 'value'
+        person_phone_number = 'value'
+        person_email_address = 'value'
+        person_hometown = 'value'
+        person_current_residence = 'value'
+        person_nationality = 'value'
+        person_occupation = 'value'
+        person_gender = 'value'
+        person_marital_status = 'value'
+        person_profile_picture_type = 'value'
+        person_profile_picture = 'value'/>
+</message>
+<!--RESPONSE FROM SERVER-->
+<!--Will be single string. Can either be 'success' or 'error' depending on the status of the xml sent prviously-->
+<!--Gabriel: if 'success' move on to create account page. If 'error' show user error message box 'Error setting up account. Please try again'-->
+
+<!--EDIT ACCOUNT DETAILS-->
+<!--William: Will come after one has signed in. There to be a button in settings page where on clicks and brings them to 'edit profile' page. Page not yet designed. Design-->
+<!--Gabriel: when page is loaded, details about the person's profile are displayed on the page's textboxes'-->
+<message>
+    <msg>edit_person</msg>
+    <person
+            person_first_name = 'value'
+            person_surname = 'value'
+            person_middle_name = 'value'
+            person_date_of_birth = 'value'
+            person_eye_color = 'value'
+            person_blood_type = 'value'
+            person_height = 'value'
+            person_weight = 'value'
+            person_email_address = 'value'
+            person_hometown = 'value'
+            person_current_residence = 'value'
+            person_nationality = 'value'
+            person_occupation = 'value'
+            person_gender = 'value'
+            person_marital_status = 'value'/>
+</message>
+<!--Gabriel: if 'error' show user message box 'Profile details saved successfully' then on click of message box moves back to homepage. If 'error' show user error box 'Error saving profile details. Please try again'-->
+
+<message>
+    <msg>login</msg>
+    <user username="value" password="value"/>
+</message>
+
+<message>
+    <msg>update_user</msg>
+    <user username="value" password="value"/>
+</message>
+
+<message>
+    <msg>signup</msg>
+    <user username="value" password="value"/>
+</message>
+
+<message>
+    <msg>add_relative</msg>
+    <relative
+        relative_relation_type = 'value'
+        relative_phone_number = 'value'
+        relative_referee_id = 'value'
+        relative_firstname = 'value'
+        relative_middlename = 'value'
+        relative_surname = 'value'
+        relative_fathers_name = 'value'
+        relative_mothers_name = 'value'
+        relative_gender = 'value'
+        relative_marital_status = 'value'
+        relative_spouse_name = 'value'
+        relative_isliving = 'value'
+        relative_occupation = 'value'/>
+</message>
+
+<message>
+    <msg>edit_relative</msg>
+    <relative
+        relative_relation_type = 'value'
+        relative_phone_number = 'value'
+        relative_referee_id = 'value'
+        relative_firstname = 'value'
+        relative_middlename = 'value'
+        relative_surname = 'value'
+        relative_fathers_name = 'value'
+        relative_mothers_name = 'value'
+        relative_gender = 'value'
+        relative_marital_status = 'value'
+        relative_spouse_name = 'value'
+        relative_isliving = 'value'
+        relative_occupation = 'value'/>
+</message>
+
+<message>
+    <msg>get_specific_relative</msg>
+    <relative
+        relative_referee_id = 'value'/>
+</message>
+
+<message>
+    <msg>get_person</msg>
+    <person
+        search_item = 'value'/>
+</message>
+
+
+
+</the_xml_data>

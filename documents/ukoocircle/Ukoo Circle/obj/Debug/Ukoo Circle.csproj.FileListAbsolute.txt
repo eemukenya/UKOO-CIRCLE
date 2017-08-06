@@ -1,0 +1,403 @@
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo Circle.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo Circle.pdb
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\resources.pri
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\AppxManifest.xml
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo Circle.build.appxrecipe
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\AppManifest.xaml
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo_Circle_Debug_AnyCPU.xap
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\App.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.g.resources
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo_Circle.Resources.AppResources.resources
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.pdb
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\priconfig.xml
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\priconfig.xml.intermediate
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\layout.resfiles
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\layout.resfiles.intermediate
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\resources.resfiles
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\resources.resfiles.intermediate
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\pri.resfiles
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\pri.resfiles.intermediate
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\qualifiers.txt
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\qualifiers.txt.intermediate
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\ProjectArchitectures.txt
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\MDILProjectFiles.xml
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\XapCacheFile.xml
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\CreateAccountPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\CreateUserAccountPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\MyProfilePage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetailsPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\LoginPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\MainPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\LocationPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\ChildrenListPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\CousinsListPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\ParentListPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\SiblingsListPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\SpouseListPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditCousinPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditParentPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditSiblingPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditSpousePage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditChildPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\ChangePasswordPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditProfilePage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\MyFamilyPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\PersonalInfoPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo Circle.dll
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo Circle.pdb
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\resources.pri
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\AppxManifest.xml
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo Circle.build.appxrecipe
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\AppManifest.xaml
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo_Circle_Debug_AnyCPU.xap
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\App.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\ChangePasswordPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\MyFamilyPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\CreateAccountPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\CreateUserAccountPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\LoginPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\LocationPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\MainPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\PersonalInfoPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditProfilePage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\MyProfilePage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetailsPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\ChildrenListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\CousinsListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditCousinPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditParentPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditSiblingPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditSpousePage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\EditChildPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\ParentListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\SiblingsListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Pages\UserDetails\SpouseListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\ShowUser.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.g.resources
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo_Circle.Resources.AppResources.resources
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.csproj.GenerateResource.Cache
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.dll
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.pdb
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\priconfig.xml
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\priconfig.xml.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\layout.resfiles
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\layout.resfiles.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\resources.resfiles
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\resources.resfiles.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\pri.resfiles
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\pri.resfiles.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\qualifiers.txt
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\ProjectArchitectures.txt
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\MDILProjectFiles.xml
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\XapCacheFile.xml
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\Ukoo Circle.csprojResolveAssemblyReference.cache
+C:\Users\gabes\Desktop\Ukoo Circle\Ukoo Circle\obj\Debug\ListPickerPage.g.cs
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Ukoo Circle.dll.config
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\hp\Documents\Ukoo\Ukoo Circle\Ukoo Circle\obj\Debug\ShowUser.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Ukoo Circle.csprojResolveAssemblyReference.cache
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\App.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\ChangePasswordPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\MyFamilyPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\CreateAccountPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\CreateUserAccountPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\LoginPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\LocationPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\MainPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\PersonalInfoPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\EditChildPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\EditProfilePage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\MyProfilePage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetailsPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\ChildrenListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\CousinsListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\EditCousinPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\EditParentPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\EditSiblingPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\EditSpousePage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\AddChildPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\ParentListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\SiblingsListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\UserDetails\SpouseListPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\ShowUser.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Ukoo Circle.g.resources
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Ukoo_Circle.Resources.AppResources.resources
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Ukoo Circle.csproj.GenerateResource.Cache
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Ukoo Circle.dll.config
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Ukoo Circle.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Ukoo Circle.pdb
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\resources.pri
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\AppxManifest.xml
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Ukoo Circle.build.appxrecipe
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\AppManifest.xaml
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Ukoo_Circle_Debug_AnyCPU.xap
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Ukoo Circle.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Ukoo Circle.pdb
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\priconfig.xml
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\priconfig.xml.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\layout.resfiles
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\layout.resfiles.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\resources.resfiles
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\resources.resfiles.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\pri.resfiles
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\pri.resfiles.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\qualifiers.txt
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\ProjectArchitectures.txt
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\MDILProjectFiles.xml
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\XapCacheFile.xml
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\BioPage.g.cs
+C:\Users\gabes\Desktop\Ukoo Circle II\Ukoo Circle\obj\Debug\Pages\SearchPerson.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Assets\ApplicationIcon.png
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Ukoo Circle.dll.config
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Ukoo Circle.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Ukoo Circle.pdb
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\resources.pri
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\AppxManifest.xml
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Ukoo Circle.build.appxrecipe
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Properties\WMAppManifest.xml
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\AppManifest.xaml
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Ukoo_Circle_Debug_AnyCPU.xap
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Ukoo Circle.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\App.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\BioPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\ChangePasswordPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\MyFamilyPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\CreateAccountPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\CreateUserAccountPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\LoginPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\LocationPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\MainPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\PersonalInfoPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\SearchPerson.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\EditChildPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\EditProfilePage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\MyProfilePage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\PaymentPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetailsPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\SettingsPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\ChildrenListPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\CousinsListPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\EditCousinPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\EditParentPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\EditSiblingPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\EditSpousePage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\AddChildPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\ParentListPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\SiblingsListPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Pages\UserDetails\SpouseListPage.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\ShowUser.g.cs
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Ukoo Circle.g.resources
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Ukoo_Circle.Resources.AppResources.resources
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Ukoo Circle.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Ukoo Circle.dll
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\Ukoo Circle.pdb
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\priconfig.xml
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\priconfig.xml.intermediate
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\layout.resfiles
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\layout.resfiles.intermediate
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\resources.resfiles
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\resources.resfiles.intermediate
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\pri.resfiles
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\pri.resfiles.intermediate
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\qualifiers.txt
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\qualifiers.txt.intermediate
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\ProjectArchitectures.txt
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\MDILProjectFiles.xml
+E:\visual studio 2015\Projects\Ukoo Circle II v2\Ukoo Circle\obj\Debug\XapCacheFile.xml
